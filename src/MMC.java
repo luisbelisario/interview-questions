@@ -1,4 +1,4 @@
-public class MDC {
+public class MMC {
 
     public static void main(String[] args) {
         System.out.println(resolver(69,100));
