@@ -1,7 +1,7 @@
 public class MDC {
 
     public static void main(String[] args) {
-        System.out.println(resolver(10,5));
+        System.out.println(resolver(69,100));
     }
 
     public static int resolver(int a, int b) {
