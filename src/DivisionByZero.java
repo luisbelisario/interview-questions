@@ -6,6 +6,7 @@ public class DivisionByZero {
             for ( ; true; controle--) {
                 // Na primeira iteração controle = 1
                 // No if ocorre --controle que será zero
+                // pois primeiro ele faz a subtração depois a divisão
                 if((controle/--controle) <= 0)
                     break;
             }
