@@ -18,8 +18,6 @@ public class reverseString {
                 reversed.append(charArray[i]);
             }
 
-            // Tenho dois loops for separados, então a complexidade é O(n)
-
             return reversed;
         } else {
             throw new RuntimeException("Null string");
