@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package DataStructures.arrays;
 
 public class PalindromeNumber {
 

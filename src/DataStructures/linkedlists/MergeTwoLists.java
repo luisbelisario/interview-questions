@@ -1,4 +1,4 @@
-import java.util.LinkedList;
+package DataStructures.linkedlists;
 
 public class MergeTwoLists {
 

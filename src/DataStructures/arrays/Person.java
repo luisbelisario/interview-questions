@@ -1,3 +1,5 @@
+package DataStructures.arrays;
+
 public class Person {
 
     private final String name;

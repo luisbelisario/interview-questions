@@ -1,3 +1,5 @@
+package DataStructures.arrays;
+
 public class PalindromeNumber2 {
 
     public static void main(String[] args) {

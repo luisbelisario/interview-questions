@@ -1,3 +1,5 @@
+package DataStructures.linkedlists;
+
 public class ListNode {
     int val;
     ListNode next;
